@@ -1,0 +1,526 @@
+Timestamp,Name,Age ,Gender,Education,Institution Name,Area,Have you attended online classes?,Is Online Classes are more effective than offline classes.,Do you think that the online classes provide better knowledge comparing to offline classes?,Do you think there is a lack of interaction during online class?,Have you ever taken online exam?,Do you agree that there is a lot of chances for malpractice during online exams?,Do you think that the online classes perfectly replaces the offline class? ,There are many distraction during online classes,Do you think that there are many advantages in online class as compared to offline class,Rate your perception about particular knowledge and skill development during online class?
+26-Jan-23,GOWSHIKAN. N. R,18,Male,UG,Kongunadu arts and science College,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Fathima Thanjeela.N,20,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Anushruthi,20,Female,UG,Kongunadu arts and science College,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Mithun.G,19,Male,UG,Kongunadu arts and science College,Semi Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,Yes,1
+26-Jan-23,Prasanna.D,18,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,1,No,Yes,No,Yes,No,Yes,No,1
+26-Jan-23,KEERTHI KRISHNA.K,19,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,2
+26-Jan-23,Kishore g,17,Male,UG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+26-Jan-23,Dharshana T,19,Female,UG,Kongunadu arts and science College,Urban,Yes,3,Yes,No,Yes,Yes,No,No,Yes,2
+26-Jan-23,Tamil ilakkiya.k,19,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,ABIRAAMI.V,20,Female,UG,Kongunadu arts and science College,Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,2
+26-Jan-23,A.vishnu,18,Male,UG,Kongunadu arts and science College,Urban,No,0,No,Yes,Yes,Yes,No,Yes,No,2
+26-Jan-23,A.Nithya kalyani,20,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,KAVYA.S,19,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Sarvesh.G,20,Male,UG,Kongunadu arts and science College,Urban,Yes,3,No,Yes,Yes,Yes,No,Yes,No,2
+26-Jan-23,Sajina parveen K,19,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,AARTHIKA. S,19,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,2
+26-Jan-23,PRIYANKAASRUTHI P,21,Female,PG,Kongunadu arts and science College,Urban,Yes,1,Yes,Yes,No,Yes,No,Yes,No,3
+26-Jan-23,Aiswarya Bharathi M,22,Female,PG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Nithiyanantham K,19,Male,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,No,Yes,No,Yes,No,1
+26-Jan-23,DURGA DEVI.C,20,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Jagatish M,21,Male,UG,Kongunadu arts and science College,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Vishalini,22,Female,PG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+26-Jan-23,NAJA MOIDEEN EK,20,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Preethi.S,19,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Karthik.M,20,Male,UG,Kongunadu arts and science College,Rural,Yes,2,Yes,Yes,Yes,Yes,No,Yes,No,3
+26-Jan-23,Aditya Iswaran,18,Male,UG,Kongunadu arts and science College,Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Rakshayadevi K,22,Female,PG,Kongunadu arts and science College,Urban,Yes,1,No,No,Yes,Yes,No,Yes,No,1
+26-Jan-23,Lakshmanan M,20,Male,UG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Abinaya.S,19,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,SanthoshKumar S,17,Male,UG,Kongunadu arts and science College,Semi Urban,No,1,Yes,Yes,Yes,Yes,No,Yes,Yes,1
+26-Jan-23,Shifa S,19,Female,UG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Abishek RM,17,Male,UG,Kongunadu arts and science College,Semi Urban,Yes,3,No,No,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Shervin Joel.S,17,Male,UG,Kongunadu arts and science College,Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,MOHIT JANGIR,17,Male,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,3
+26-Jan-23,AR SAHANA,18,Female,UG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Ashika S,19,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Stephy.p,18,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Nivethasri,20,Female,UG,Kongunadu arts and science College,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+26-Jan-23,Aswin,19,Male,UG,Kongunadu arts and science College,Urban,Yes,2,No,No,Yes,Yes,No,Yes,Yes,1
+27-Jan-23,BABY SHALINI. R,20,Female,UG,Kongunadu arts and science College,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+27-Jan-23,Sweatha,22,Female,PG,Kongunadu arts and science College,Semi Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+27-Jan-23,Lingeshwaran.R,20,Male,UG,Kongunadu arts and science College,Rural,Yes,0,No,Yes,Yes,Yes,No,Yes,No,0
+27-Jan-23,Ramana Chandar R,21,Male,UG,Kongunadu arts and science College,Urban,Yes,Strongly 3,No,Yes,Yes,Yes,No,Yes,Yes,3
+27-Jan-23,Srinath. R,18,Male,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,No,No,Yes,Yes,2
+27-Jan-23,Savitha,18,Female,UG,Kongunadu arts and science College,Urban,Yes,2,No,No,Yes,Yes,No,Yes,No,1
+27-Jan-23,Tamilselvan.C,17,Male,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,No,Yes,No,Yes,No,1
+27-Jan-23,M.Sudharsana,17,Female,UG,Kongunadu arts and science College,Rural,Yes,3,No,Yes,Yes,Yes,No,Yes,Yes,2
+27-Jan-23,Dhinakar K,21,Male,PG,Kongunadu arts and science College,Rural,Yes,0,No,Yes,Yes,Yes,No,Yes,No,0
+27-Jan-23,G.sujitha,19,Female,UG,Kongunadu arts and science College,Urban,Yes,1,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+27-Jan-23,Ramesh M,21,Male,PG,Kongunadu arts and science College,Semi Urban,Yes,0,No,No,Yes,Yes,No,Yes,Yes,0
+27-Jan-23,Stanley roshan.s,21,Male,PG,Kongunadu arts and science College,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,0
+27-Jan-23,A. S.Nisha,19,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+27-Jan-23,Karan S,21,Male,PG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+27-Jan-23,Dharshan S,22,Male,PG,Kongunadu arts and science College,Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Keerthana,21,Female,PG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Rakesh. N,20,Male,UG,Kongunadu arts and science College,Urban,Yes,2,No,No,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,A.karthika,20,Female,UG,Kongunadu arts and science College,Rural,Yes,0,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Jeevitha S,21,Female,PG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Monika P,20,Female,UG,Kongunadu arts and science College,Rural,Yes,0,No,Yes,No,Yes,No,Yes,No,1
+28-Jan-23,Antony S,19,Male,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,0
+28-Jan-23,HUSAINA Y,20,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Gowtham.G,18,Male,UG,Kongunadu arts and science College,Rural,Yes,2,No,No,Yes,Yes,No,Yes,No,2
+28-Jan-23,A.Dhivya,19,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Bharathi J K,20,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,No,Yes,Yes,No,Yes,No,1
+28-Jan-23,Sowmya. M,21,Female,UG,Kongunadu arts and science College,Urban,Yes,2,No,No,Yes,Yes,No,Yes,No,2
+28-Jan-23,Manikandan.M,20,Male,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Aarthi,22,Female,PG,Kongunadu arts and science College,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Arockiya Reshma R,18,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,No,Yes,No,Yes,No,0
+28-Jan-23,Salfia.s,21,Female,UG,Kongunadu arts and science College,Urban,No,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Prashanth RJ,18,Male,UG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,Yes,No,No,Yes,Yes,2
+28-Jan-23,S Medha,20,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+28-Jan-23,Sathiya priya M,19,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,R.Madhumitha,20,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,No,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Karthikeyan.s,18,Male,UG,Kongunadu arts and science College,Urban,Yes,2,Yes,Yes,No,Yes,No,Yes,Yes,2
+28-Jan-23,Kamalesh J,21,Male,PG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Thangabalu S,28,Male,PG,Kongunadu arts and science College,Urban,Yes,Strongly 3,Yes,Yes,Yes,No,No,No,Yes,3
+28-Jan-23,Sowmya.M,20,Female,UG,Kongunadu arts and science College,Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,Yes,0
+29-Jan-23,Muthukamal M,21,Male,UG,Kongunadu arts and science College,Urban,Yes,3,No,Yes,Yes,Yes,No,Yes,Yes,2
+29-Jan-23,AARTHIKA.S,19,Female,UG,Kongunadu arts and science College,Rural,Yes,2,No,Yes,Yes,Yes,No,Yes,No,2
+29-Jan-23,Boobash Kumar,22,Male,PG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+29-Jan-23,BARATHI,20,Male,UG,Kongunadu arts and science College,Rural,Yes,Strongly 3,No,Yes,Yes,Yes,No,Yes,No,1
+30-Jan-23,HARIHARAN.M,20,Male,UG,Kongunadu arts and science College,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,Gayathri S,20,Female,UG,Kongunadu arts and science College,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,MithunKumar V,20,Male,UG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,Raguraj,20,Male,UG,Kongunadu arts and science College,Urban,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+31-Jan-23,Aneesh V,20,Male,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,0
+31-Jan-23,Sanjay Kumar V,18,Male,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,2
+31-Jan-23,Amisha sudhan,19,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,1,No,No,Yes,Yes,No,Yes,No,1
+31-Jan-23,Sundharaprabhu.E,18,Male,UG,Kongunadu arts and science College,Rural,Yes,1,No,No,Yes,No,No,Yes,No,1
+31-Jan-23,Jeslin Joy.S,20,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,Yashawini.s,19,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,No,Yes,No,Yes,No,1
+31-Jan-23,Shalbin G Joseph,19,Male,UG,Kongunadu arts and science College,Urban,Yes,2,No,No,Yes,Yes,No,Yes,Yes,1
+31-Jan-23,Hariprasath,19,Male,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,No,Yes,No,Yes,No,1
+31-Jan-23,SUPRAJA S,20,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+31-Jan-23,Swaathi J B,19,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,Karthik.v,19,Male,UG,Kongunadu arts and science College,Urban,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+31-Jan-23,Pavithra R,20,Female,UG,Kongunadu arts and science College,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,Charan N,20,Male,UG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+31-Jan-23,Vishwanathan. M,19,Male,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+31-Jan-23,Jegadheesh Raja R,20,Male,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,0
+31-Jan-23,Anish kumar AB,20,Male,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,3
+31-Jan-23,P.VINAYAK VIKRAM,17,Male,UG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,Varuna Swamynathan,20,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+31-Jan-23,Keerthana N,20,Female,UG,Kongunadu arts and science College,Rural,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+31-Jan-23,Binu Mohana Priya.A.M,21,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,No,Yes,No,Yes,No,1
+31-Jan-23,Karthikeyan,20,Male,UG,Kongunadu arts and science College,Rural,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,Reshma Daisy,20,Female,UG,Kongunadu arts and science College,Rural,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+31-Jan-23,Swathy,20,Female,UG,Kongunadu arts and science College,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,Sushma G.H,20,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,2
+01-Feb-23,Anbu,20,Male,UG,Kongunadu arts and science College,Semi Urban,Yes,1,No,No,Yes,Yes,No,No,No,1
+26-Jan-23,Sajina parveen K,19,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,1,No,Yes,Yes,Yes,,Yes,Yes,2
+26-Jan-23,Anushruthi,20,Female,UG,Kongunadu arts and science College,Rural,Yes,1,No,Yes,Yes,Yes,,Yes,No,1
+26-Jan-23,Lekha Shree.V,19,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,1,No,Yes,Yes,Yes,,Yes,No,0
+26-Jan-23,M Durgadevi,21,Female,UG,Kongunadu arts and science College,Rural,Yes,2,No,Yes,Yes,No,Yes,Yes,No,1
+26-Jan-23,Jeevanandham S,20,Male,UG,Kongunadu arts and science College,Urban,Yes,1,No,No,Yes,Yes,Yes,Yes,Yes,2
+26-Jan-23,SUJITHA.S,21,Female,PG,Kongunadu arts and science College,Semi Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+26-Jan-23,Madhumathi,20,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,Yes,Yes,Yes,Yes,2
+26-Jan-23,Akash,21,Male,UG,Kongunadu arts and science College,Urban,No,Strongly 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+26-Jan-23,Feroz Khan S,18,Male,UG,Kongunadu arts and science College,Urban,Yes,3,Yes,Yes,No,No,Yes,Yes,Yes,2
+26-Jan-23,DHARSHINI V,19,Female,UG,Kongunadu arts and science College,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,No,2
+26-Jan-23,Chandru S,18,Male,UG,Kongunadu arts and science College,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+26-Jan-23,Soundaryaa.R,19,Female,UG,Kongunadu arts and science College,Urban,Yes,3,No,Yes,No,No,Yes,Yes,Yes,2
+26-Jan-23,Anu,20,Female,UG,Kongunadu arts and science College,Rural,Yes,2,No,Yes,Yes,Yes,Yes,Yes,Yes,2
+26-Jan-23,Lathika.R,17,Female,UG,Kongunadu arts and science College,Rural,Yes,Strongly 3,Yes,No,No,No,Yes,No,Yes,3
+27-Jan-23,Pragadeesh.M,18,Male,UG,Kongunadu arts and science College,Urban,No,Strongly 3,Yes,No,No,No,Yes,No,Yes,3
+27-Jan-23,Prajusha.P,20,Female,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,Yes,Yes,No,1
+27-Jan-23,Sathish.P,22,Male,PG,Kongunadu arts and science College,Rural,Yes,3,Yes,No,Yes,Yes,Yes,Yes,Yes,2
+28-Jan-23,K.Bhuvaneshwari,17,Female,UG,Kongunadu arts and science College,Urban,Yes,3,No,Yes,Yes,Yes,Yes,Yes,Yes,2
+28-Jan-23,Sudeeshna.S.J,19,Female,UG,Kongunadu arts and science College,Rural,Yes,3,No,Yes,Yes,Yes,Yes,Yes,No,1
+28-Jan-23,J. GOKULAPRIYA,19,Female,UG,Kongunadu arts and science College,Urban,Yes,3,Yes,Yes,Yes,No,Yes,No,Yes,3
+28-Jan-23,B.Nivetha,19,Female,UG,Kongunadu arts and science College,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+28-Jan-23,Sowmiya.G,20,Female,UG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,Yes,Yes,Yes,Yes,Yes,2
+28-Jan-23,G.Srimathi,20,Female,UG,Kongunadu arts and science College,Rural,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+29-Jan-23,ABITHARSHINI S,20,Female,UG,Kongunadu arts and science College,Rural,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+29-Jan-23,KARTHIKEYAN J,21,Male,UG,Kongunadu arts and science College,Rural,Yes,Strongly 3,Yes,No,Yes,Yes,Yes,Yes,Yes,3
+31-Jan-23,Madhumitha.R,20,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,Yes,Yes,Yes,Yes,2
+31-Jan-23,Manoj Kumar,24,Male,PG,Kongunadu arts and science College,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,No,2
+31-Jan-23,Sree akash,19,Male,UG,Kongunadu arts and science College,Urban,Yes,0,No,No,Yes,Yes,Yes,Yes,Yes,0
+31-Jan-23,Halen border.g,19,Male,UG,Kongunadu arts and science College,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+31-Jan-23,K.Anbarasu,18,Male,UG,Kongunadu arts and science College,Semi Urban,Yes,3,Yes,Yes,Yes,No,Yes,No,Yes,2
+31-Jan-23,Surya kumar.rb,19,Male,UG,Kongunadu arts and science College,Urban,Yes,2,Yes,No,No,No,Yes,Yes,Yes,3
+31-Jan-23,Prasath m,22,Male,UG,Kongunadu arts and science College,Urban,Yes,Strongly 3,Yes,No,Yes,Yes,Yes,Yes,Yes,3
+31-Jan-23,R . Archana,18,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,Strongly 3,No,Yes,Yes,No,Yes,Yes,Yes,3
+31-Jan-23,Pannerselvam T,20,Male,UG,Kongunadu arts and science College,Urban,Yes,Strongly 3,Yes,Yes,Yes,No,Yes,Yes,Yes,3
+31-Jan-23,Risant,21,Male,UG,Kongunadu arts and science College,Urban,Yes,1,No,Yes,Yes,Yes,Yes,Yes,Yes,2
+31-Jan-23,charulatha s,18,Female,UG,Kongunadu arts and science College,Urban,Yes,2,No,Yes,No,Yes,Yes,Yes,No,1
+31-Jan-23,Ajay Kumar.V,19,Male,UG,Kongunadu arts and science College,Rural,Yes,Strongly 3,Yes,No,Yes,Yes,Yes,No,Yes,3
+31-Jan-23,Netra,19,Female,UG,Kongunadu arts and science College,Semi Urban,Yes,2,No,Yes,Yes,Yes,Yes,Yes,Yes,2
+31-Jan-23,Karthika,17,Female,UG,Kongunadu arts and science College,Rural,Yes,2,No,Yes,No,No,Yes,Yes,Yes,2
+01-Feb-23,Gokul muthuraj,20,Male,UG,Kongunadu arts and science College,Urban,No,3,Yes,No,Yes,Yes,Yes,No,Yes,3
+26-Jan-23,M. Maria Jelina,17,Female,UG,Kongunadu Art And Science College,Urban,Yes,0,Yes,Yes,Yes,Yes,Yes,No,Yes,3
+26-Jan-23,S.Yoshana,18,Female,UG,Kongunadu Art And Science College,Urban,Yes,1,Yes,Yes,Yes,No,Yes,No,Yes,3
+26-Jan-23,S. Kocila,18,Female,UG,KASC,Urban,Yes,0,No,Yes,Yes,Yes,Yes,Yes,No,0
+26-Jan-23,Vinu,17,Male,UG,KCT,Rural,Yes,2,No,No,Yes,Yes,Yes,No,Yes,2
+26-Jan-23,K. Maheswaran,19,Male,UG,Gobi arts and science college,Rural,Yes,Strongly 3,Yes,No,Yes,Yes,Yes,Yes,Yes,2
+26-Jan-23,K.Sanjay kumar,18,Male,UG,Dr.SNS Rajalaksmi college of arts and science,Semi Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3
+26-Jan-23,Deepak. V,19,Male,UG,Kongunadu artr and science college,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+26-Jan-23,Sridhar.s,19,Male,UG,Kongunadu arts and science college Coimbatore,Urban,Yes,2,No,Yes,Yes,Yes,Yes,Yes,No,2
+26-Jan-23,Al Mahaboob Phyas.A,18,Male,UG,Kumaraguru college of technology,Urban,Yes,2,No,Yes,Yes,Yes,Yes,Yes,Yes,2
+26-Jan-23,Selva,18,Male,PG,Nalla Arts And Science College,Semi Urban,Yes,Strongly 3,Yes,No,Yes,No,Yes,No,Yes,3
+26-Jan-23,VIGNESHWAR K S,20,Male,UG,UNITED INSTITUTE OF TECHNOLOGY,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+26-Jan-23,Arunkumar. K,18,Male,UG,Kumaraguru college of technology,Urban,No,3,Yes,Yes,Yes,Yes,Yes,Yes,No,1
+26-Jan-23,Savitha,21,Female,UG,Psg colleges of art and science,Rural,Yes,3,No,Yes,Yes,Yes,Yes,Yes,No,1
+26-Jan-23,V.M.Gokul,18,Male,UG,Info,Urban,No,0,No,No,Yes,No,Yes,No,No,2
+26-Jan-23,Subramani C,35,Male,PG,Kongunadu Art's and science,Rural,Yes,3,Yes,No,Yes,No,Yes,No,Yes,2
+26-Jan-23,Palraj,18,Male,UG,Info engg,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,No,No,2
+26-Jan-23,C.vignesh,18,Male,UG,Gobi arts and science college,Urban,Yes,2,Yes,Yes,Yes,Yes,Yes,No,Yes,3
+26-Jan-23,Reuben Issac,18,Male,UG,Kumaraguru college of technology,Semi Urban,Yes,2,No,No,Yes,No,Yes,No,Yes,2
+26-Jan-23,PRIYABHUMIKA. V,18,Female,UG,Bsc cs,Urban,Yes,3,No,Yes,Yes,Yes,Yes,Yes,No,2
+26-Jan-23,Pooja,17,Female,UG,KASC,Urban,Yes,3,No,No,No,Yes,Yes,Yes,Yes,3
+27-Jan-23,Martina,20,Female,UG,Veterinary College,Rural,Yes,Strongly 3,Yes,No,Yes,Yes,Yes,No,Yes,2
+27-Jan-23,Maaran,20,Male,UG,Engineering,Rural,Yes,Strongly 3,Yes,No,Yes,Yes,Yes,Yes,Yes,3
+27-Jan-23,Sangamithra.S,17,Female,UG,KGCAS,Urban,No,Strongly 3,Yes,No,Yes,No,Yes,No,Yes,3
+27-Jan-23,Suhitha,18,Female,UG,KGCAS,Urban,Yes,Strongly 3,Yes,No,Yes,No,Yes,Yes,Yes,2
+28-Jan-23,Subashini,24,Female,PG,Bharathiyar University,Rural,Yes,1,No,Yes,Yes,Yes,Yes,No,Yes,2
+28-Jan-23,Nathishkumar,20,Male,UG,UNITED INSTITUTE OF TECHNOLOGY,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+28-Jan-23,Madhana Gopal B,20,Male,UG,UNITED INSTITUTE OF TECHNOLOGY,Urban,Yes,3,Yes,No,Yes,Yes,Yes,No,Yes,3
+28-Jan-23,MOHAMED ISAAM,15,Male,UG,PSG POLYTECHNIC COLLEGE,Urban,Yes,2,No,Yes,Yes,No,Yes,Yes,Yes,3
+28-Jan-23,praveenausha2020@gmail.com,19,Female,UG,Kg college of arts and science,Urban,Yes,2,No,Yes,Yes,Yes,Yes,Yes,No,1
+28-Jan-23,Sathya,20,Female,UG,Vellore institute of technology,Urban,Yes,1,No,Yes,Yes,Yes,Yes,Yes,No,1
+28-Jan-23,Prithive c,20,Male,UG,College,Rural,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+28-Jan-23,Shrinithi P K,18,Female,UG,PSGRKCW,Urban,Yes,Strongly 3,No,Yes,Yes,Yes,Yes,Yes,Yes,3
+28-Jan-23,V.subash,21,Male,UG,KGISL Institute of technology,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3
+28-Jan-23,Suhasini.k,18,Female,UG,Kongunaducollege,Semi Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+28-Jan-23,ARUNTH TAMIL S,18,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,2,No,Yes,Yes,Yes,Yes,Yes,No,2
+28-Jan-23,Sivaranjani. V,19,Female,UG,Velammal medical medical college madurai,Urban,No,2,No,No,Yes,Yes,Yes,Yes,Yes,2
+28-Jan-23,Rebecca S,20,Female,UG,VIT University,Urban,Yes,Strongly 3,Yes,Yes,Yes,No,Yes,No,Yes,3
+28-Jan-23,Aditya S,21,Male,UG,VIT University,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3
+28-Jan-23,Smirthi.D,20,Female,UG,Nift-tea college of knitwear fashion,Semi Urban,Yes,3,No,Yes,Yes,Yes,Yes,Yes,No,2
+28-Jan-23,PRAVEEN A,19,Male,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3
+28-Jan-23,KAUSSIK V,18,Male,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,No,Yes,2
+28-Jan-23,SANTHIKA J,19,Female,UG,BANNARI AMMMAN INSTITUTE OF TECHNOLOGY,Urban,Yes,2,No,Yes,Yes,Yes,Yes,Yes,No,2
+28-Jan-23,Karthika,19,Female,UG,Bharathiyar,Urban,Yes,3,No,Yes,Yes,No,Yes,Yes,No,2
+28-Jan-23,Dinahar S N,21,Male,UG,Thiagarajar Polytechnic College,Urban,Yes,2,No,Yes,No,Yes,Yes,Yes,No,1
+28-Jan-23,Jumana,19,Female,UG,VIT,Rural,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+28-Jan-23,Sai Abhinav Kolli,20,Male,UG,VIT VELLORE,Urban,Yes,0,Yes,No,Yes,Yes,Yes,No,Yes,2
+28-Jan-23,K.Mahalakshmi,22,Female,UG,Vellore institute of technology,Rural,Yes,2,Yes,Yes,No,Yes,Yes,No,No,2
+29-Jan-23,Lokeswar,18,Male,UG,KIT-KALAIGNAR karunanidhi institute of technology,Urban,Yes,2,No,No,Yes,Yes,Yes,Yes,Yes,1
+29-Jan-23,Yuvaraj,18,Male,UG,Scred heart colege of arts and sance,Rural,No,3,Yes,Yes,No,No,Yes,Yes,Yes,1
+29-Jan-23,Deepak S,20,Male,UG,Sri Kriahna College of Technology,Urban,Yes,2,No,Yes,Yes,No,Yes,Yes,Yes,2
+29-Jan-23,RITHIKA P,19,Female,UG,Bannariamman institute of technology,Urban,Yes,2,Yes,No,Yes,No,Yes,No,No,2
+29-Jan-23,Aakash kumar. R,17,Male,UG,United college of  Arts and science,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3
+29-Jan-23,Priyanka,23,Female,UG,Vivekananda Arts and science college,Semi Urban,Yes,1,No,Yes,Yes,Yes,Yes,Yes,No,1
+29-Jan-23,S. Seetha,19,Female,UG,Avinashilingam institute for home science and higher education for women,Rural,Yes,Strongly 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+29-Jan-23,A.Manoj,22,Male,UG,Cnc,Urban,Yes,3,No,No,Yes,Yes,Yes,Yes,No,1
+29-Jan-23,Keerthana s,19,Female,UG,Bharathiyar University,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+29-Jan-23,Elakkiya.N,18,Female,UG,Government Arts and sciences College Anthiyur,Rural,Yes,Strongly 3,Yes,Yes,No,Yes,Yes,No,Yes,3
+29-Jan-23,Santhosh kumar.S,20,Male,UG,"Government College of engineering,bargur",Rural,Yes,Strongly 3,Yes,No,Yes,No,Yes,Yes,Yes,3
+29-Jan-23,Harikarthick,19,Male,UG,Hindustan College of Arts and Science,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+29-Jan-23,Kanagasabapathy M,20,Male,UG,Government College of engineering -Bargur,Semi Urban,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+29-Jan-23,Rohith R,18,Male,UG,Bsc CSDA,Rural,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+29-Jan-23,VIGNESH KUMAR T,21,Male,UG,GOVERNMENT COLLEGE OF ENGINEERING. BARGUR,Rural,Yes,3,No,No,Yes,Yes,Yes,Yes,No,1
+29-Jan-23,Vijay Kumar. G,20,Male,UG,Student,Urban,No,2,No,Yes,No,Yes,Yes,Yes,Yes,1
+29-Jan-23,Sholarajan,20,Male,UG,Grt,Rural,Yes,0,No,Yes,No,Yes,Yes,Yes,No,0
+29-Jan-23,Swathi,21,Female,UG,Cms college of science and commerce,Rural,Yes,Strongly 3,No,Yes,Yes,Yes,Yes,Yes,No,3
+29-Jan-23,Giritharan T,20,Male,UG,KASC,Urban,Yes,Strongly 3,Yes,Yes,Yes,No,Yes,No,Yes,3
+29-Jan-23,Riyaz,23,Male,UG,M.a.r,Urban,No,2,No,No,No,No,Yes,Yes,Yes,3
+29-Jan-23,S.sivaramakrishna,20,Male,UG,Kongunadu arts and science collt,Urban,Yes,Strongly 3,Yes,No,Yes,No,Yes,No,Yes,3
+29-Jan-23,Dillip,20,Male,UG,Grt,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3
+29-Jan-23,Mohammed Zahid B,19,Male,UG,Sri Krishna College of engineering and technology,Urban,Yes,3,Yes,No,Yes,No,Yes,No,Yes,3
+29-Jan-23,Dhivya Dharshini R,18,Female,UG,Sri Krishna College of engineering and technology,Urban,Yes,3,Yes,No,Yes,No,Yes,No,Yes,2
+29-Jan-23,P.manikandan,18,Male,UG,Nct,Rural,Yes,0,No,Yes,No,No,Yes,Yes,Yes,1
+29-Jan-23,Deepak,19,Male,UG,Sri Krishna College of Technology,Urban,Yes,3,No,Yes,Yes,Yes,Yes,Yes,Yes,2
+29-Jan-23,Akash K N,20,Male,UG,Sri Krishna College of Technology,Semi Urban,Yes,1,No,Yes,Yes,No,Yes,Yes,Yes,2
+30-Jan-23,V K MANIKANDAN,21,Male,UG,Gandhigram University,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3
+30-Jan-23,Mayilsamy. P,23,Male,UG,Paavai Engineering college,Rural,Yes,Strongly 3,Yes,Yes,Yes,Yes,Yes,Yes,No,3
+30-Jan-23,Saravanakumar M,20,Male,UG,Vysya college,Semi Urban,Yes,2,No,Yes,Yes,Yes,Yes,Yes,No,2
+30-Jan-23,S.Muthu krishana,19,Male,UG,St.Xavier,Urban,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2
+30-Jan-23,Ranjith,31,Male,PG,Varuthapadatha valibar sangam,Rural,No,Strongly 3,No,Yes,Yes,Yes,Yes,Yes,Yes,0
+31-Jan-23,Dharsankumar,20,Male,UG,Gandhigram Rural Institute,Rural,Yes,2,No,No,Yes,No,Yes,Yes,Yes,2
+31-Jan-23,Dhanush. A,19,Male,UG,Kongunadu Art's and science college,Urban,Yes,Strongly 3,Yes,Yes,No,Yes,Yes,No,Yes,2
+31-Jan-23,Madhan,19,Male,UG,GOPI ARTS AND SCIENCE COLLEGE,Semi Urban,Yes,3,Yes,Yes,Yes,No,Yes,Yes,No,2
+31-Jan-23,A.Mohammed Ashik,20,Male,UG,Kongunadu college of arts and science,Rural,Yes,1,No,Yes,No,No,Yes,No,No,2
+31-Jan-23,G Preethi,22,Female,PG,PSGR Krishnammal college for women,Semi Urban,Yes,0,No,Yes,Yes,Yes,Yes,Yes,No,1
+31-Jan-23,Akash,21,Male,UG,KASC,Urban,No,0,No,Yes,Yes,Yes,Yes,Yes,Yes,2
+31-Jan-23,Sujitha M,19,Female,UG,KASC,Urban,Yes,2,No,Yes,Yes,Yes,Yes,Yes,Yes,3
+01-Feb-23,Yuvaraj,20,Male,UG,C Abdul Hakeem melvisharam arts and science,Rural,Yes,1,No,Yes,No,Yes,Yes,Yes,No,1
+06-Feb-23,E. Devibala,19,Female,UG,Autonomous,Semi Urban,Yes,3,Yes,Yes,No,Yes,Yes,Yes,Yes,1
+26-Jan-23,Lokeshwaran,28,Male,UG,Kumaraguru Institute of Technology,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Abinaya R,17,Female,UG,Kongunadu arts and sciences college,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+26-Jan-23,Jothi Bala,17,Male,UG,Kongunadu Arts And Science,Rural,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,1
+26-Jan-23,S.Navalsidu,17,Male,UG,Kongunadu arts and science college Coimbatore,Urban,No,0,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Aparnarani.P.A,17,Female,UG,Kumaraguru college of technology,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,2
+26-Jan-23,Akilan,17,Male,UG,KCT,Urban,No,0,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Jeevanathithya,17,Male,UG,Kumaraguru Institute of Technology,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Kavya P,17,Female,UG,Kumaraguru college of technology,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Suvetha S,21,Female,PG,"Kongunadu Arts And Science College,Coimbatore",Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+26-Jan-23,MAHENDRAN.P,17,Male,UG,Sri Ramakrishna Engineering College,Urban,Yes,2,No,No,No,Yes,No,Yes,No,1
+26-Jan-23,Prakashraj E,21,Male,PG,"Kongunadu Arts and Science College, Coimbatore.",Urban,No,2,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Sanjay A,17,Male,UG,Dr.N.G.P institute of technology,Urban,Yes,0,No,Yes,No,Yes,No,Yes,Yes,2
+26-Jan-23,R Dhanya,17,Female,UG,Kongunadu college of arts and science,Urban,Yes,2,No,Yes,Yes,Yes,No,No,Yes,2
+26-Jan-23,P Shruthi,17,Female,UG,Kumaraguru college of technology,Urban,Yes,1,No,Yes,Yes,Yes,No,No,No,1
+26-Jan-23,Arul Murugan M.S,17,Male,UG,Kg college of arts and science,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Sashtiga,17,Female,UG,Kumaraguru college of technology,Semi Urban,Yes,1,No,Yes,No,Yes,No,Yes,Yes,2
+26-Jan-23,ABISHEK NS,17,Male,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+26-Jan-23,V.S.Hridhya,21,Female,UG,Avinashilingam institute for home science and higher education for women,Urban,Yes,2,No,No,Yes,Yes,No,Yes,Yes,1
+26-Jan-23,M. R. Kavyaashree,17,Female,UG,Gynmc,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Husnimubarak k k,25,Male,PG,"Kongunadu Art's and science college, coimbatore",Semi Urban,Yes,Strongly 3,Yes,No,Yes,No,No,No,Yes,2
+26-Jan-23,Sanjesh J,17,Male,UG,Kumaraguru college of technology,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+26-Jan-23,K. vikraman,17,Male,UG,Kongunadu arts and science college Covai,Urban,Yes,1,No,Yes,No,Yes,No,Yes,Yes,1
+27-Jan-23,KATHIRVELAN V,21,Male,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+27-Jan-23,KRISHNA PRAKASH M,22,Male,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,2,No,No,Yes,Yes,No,Yes,No,1
+27-Jan-23,Maheshkumar S,21,Male,UG,Kongu engineering college,Rural,Yes,1,No,No,Yes,Yes,No,Yes,No,1
+28-Jan-23,Suriyan,24,Male,PG,Bharathiyar University,Rural,Yes,2,No,Yes,No,Yes,No,Yes,No,1
+28-Jan-23,Nithya G,22,Female,PG,Bharathiyar University,Rural,Yes,1,Yes,No,Yes,No,No,No,Yes,3
+28-Jan-23,Kavya A,24,Female,PG,PSGR Krishnammal college for women,Rural,Yes,Strongly 3,No,Yes,No,Yes,No,Yes,No,2
+28-Jan-23,Yash Raj Mani,21,Male,UG,VIT VELLORE,Urban,Yes,Strongly 3,No,Yes,Yes,No,No,No,Yes,2
+28-Jan-23,Gokulan,21,Male,UG,Thoothukudi medical College Thoothukudi,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+28-Jan-23,Sivanandhini,21,Female,PG,Karpagam institutions,Semi Urban,Yes,3,No,Yes,Yes,No,No,Yes,Yes,2
+28-Jan-23,Sreedhar.c,21,Male,PG,KGISL Institute of technology,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+28-Jan-23,Aruna,21,Female,UG,Government law college coimbatore,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Tharmaraj pandian,21,Male,UG,Kongunadu arts and sciences college,Semi Urban,Yes,2,Yes,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Sathish,21,Male,UG,Vellore institute of technology,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Dinesh,21,Male,UG,Vellore institute of technology,Semi Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,3
+28-Jan-23,Sagar,22,Male,PG,Vellore institute of technology,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,No,Yes,Yes,3
+28-Jan-23,Bharath Kumar,22,Male,PG,VIT University,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,No,Yes,Yes,3
+28-Jan-23,Christina Ann,23,Female,PG,Christian Medical College - CMC,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,No,No,Yes,3
+28-Jan-23,Meghnaa,21,Female,UG,Vellore institute of technology,Urban,Yes,Strongly 3,Yes,No,Yes,Yes,No,No,Yes,3
+28-Jan-23,JEYANTHI S,21,Female,PG,Vellore institute of technology,Rural,Yes,2,No,Yes,Yes,Yes,No,Yes,No,2
+28-Jan-23,Satheesh,21,Male,PG,Vellore institute of technology,Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,No,2
+28-Jan-23,G.  Sugitha,17,Female,UG,Vellore Institute of Technology. Vellore,Semi Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Bharath,23,Male,PG,VIT,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Keerthika R,21,Female,UG,"Vellore Institute of Technology, Vellore",Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,A RAJAVARSHINI,17,Female,UG,VIT,Rural,Yes,1,No,Yes,No,Yes,No,Yes,No,0
+28-Jan-23,Not telling :),,Male,UG,Oxford,Semi Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,0
+29-Jan-23,Jayasri,17,Female,UG,Vellore institute of technology,Urban,No,2,No,Yes,Yes,Yes,No,Yes,No,0
+29-Jan-23,N.R.Oviya,16,Female,UG,Mahesh karthik Matric higher secondary school,Rural,Yes,2,No,Yes,No,Yes,No,Yes,Yes,2
+29-Jan-23,NAGARJUN L,21,Male,UG,Kongunadu Arts And Science,Rural,Yes,3,No,Yes,Yes,No,No,Yes,Yes,3
+29-Jan-23,Udaya kumar M,21,Male,UG,Kpr institute of engineering and technology,Rural,Yes,1,No,No,Yes,Yes,No,Yes,Yes,2
+29-Jan-23,Kavya M,22,Female,PG,Bharathiar University,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+29-Jan-23,MOHAMEDRIZWAN,23,Male,PG,Bharathiar University,Urban,Yes,0,No,No,No,Yes,No,Yes,No,1
+29-Jan-23,Karthik B G,23,Male,PG,Govt. Arts Collage - Paramakudi.,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+29-Jan-23,Arvind Kumar S,53,Male,UG,Skct,Semi Urban,Yes,3,Yes,No,No,No,No,Yes,Yes,2
+29-Jan-23,Leslie,22,Male,UG,Jamal mohammad college,Urban,Yes,3,Yes,No,Yes,No,No,Yes,Yes,3
+29-Jan-23,Gowhar,21,Male,PG,University of Kashmir,Semi Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,0
+30-Jan-23,Mohanapriyadharshini,21,Female,UG,Vivekananda Arts and science College for women,Rural,Yes,2,Yes,Yes,Yes,No,No,Yes,No,2
+30-Jan-23,Hariharan.J,21,Male,UG,KGISL Institute of technology,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,2
+31-Jan-23,S.Dhivya,21,Female,UG,Vinayaka mission's research foundation,Rural,Yes,3,No,Yes,Yes,No,No,Yes,No,1
+31-Jan-23,Karpakavalli,21,Female,UG,Vmcp,Urban,No,2,Yes,No,No,No,No,No,No,1
+31-Jan-23,S. Thenpandi,17,Male,UG,Kongunadu Art's and science college,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,Dhulasiram K,23,Male,UG,Kumaraguru college of technology,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,Sujeet,17,Male,UG,Psg,Urban,Yes,2,No,No,Yes,Yes,No,Yes,No,1
+01-Feb-23,Sri hari,17,Male,UG,APA,Urban,Yes,Strongly 3,No,No,Yes,Yes,No,Yes,No,1
+01-Feb-23,Jeyanthi,21,Female,UG,Vellore institute of technology,Semi Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+01-Feb-23,Prakash,21,Male,UG,VIT VELLORE,Semi Urban,Yes,3,No,Yes,Yes,Yes,No,Yes,Yes,3
+01-Feb-23,Priya Aruldas,21,Female,UG,Vellore institute of technology,Semi Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,No,Yes,Yes,3
+01-Feb-23,Yash Raj Mani,21,Male,UG,Vellore institute of technology,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,No,Yes,Yes,3
+01-Feb-23,Aakash,21,Male,UG,Vellore institute of technology,Semi Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,No,Yes,Yes,1
+01-Feb-23,Poovarasan A,21,Male,UG,Vellore institute of technology,Semi Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,1
+01-Feb-23,Mohammad Mukundhan,22,Male,UG,Vellore institute of technology,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,No,Yes,Yes,3
+01-Feb-23,Vivin E,23,Male,PG,Vellore institute of technology,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,No,Yes,Yes,3
+01-Feb-23,Charan Kumar Sharma,22,Male,PG,VIT University,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+01-Feb-23,Stella,21,Female,UG,Vellore institute of technology,Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,No,2
+01-Feb-23,Avnisha,21,Female,UG,Vellore institute of technology,Semi Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+01-Feb-23,Ruban Kishore,21,Male,UG,Vellore institute of technology,Semi Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,No,2
+01-Feb-23,Williams S,22,Male,PG,VIT University,Semi Urban,Yes,3,No,Yes,Yes,Yes,No,Yes,Yes,1
+01-Feb-23,Ashwini,23,Female,PG,"VIT University, Vellore",Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,3
+26-Jan-23,Dhanasree,18,Female,UG,KCT,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Manjari,18,Female,UG,VIT,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+26-Jan-23,Harismita K,18,Female,UG,Kumaraguru Institute of Technology,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Hari Vignesh,18,Male,UG,Kumaraguru college of technology,Urban,Yes,2,No,No,Yes,Yes,No,Yes,No,2
+26-Jan-23,Karthick,18,Male,UG,Kumaraguru college of technology,Rural,No,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Lingesh,18,Male,UG,KCT,Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,2
+26-Jan-23,G.Sylvia Michael,18,Female,UG,PPG INSTITUTE OF TECHNOLOGY,Urban,Yes,1,No,Yes,No,Yes,No,Yes,No,1
+26-Jan-23,J sarath,18,Male,UG,Hindusthan college of arts and science,Urban,Yes,2,No,Yes,Yes,No,No,Yes,No,2
+26-Jan-23,Y .AJMAL,18,Male,UG,Kongunadu Arts And Science,Semi Urban,Yes,3,Yes,No,No,No,No,Yes,Yes,2
+26-Jan-23,Muthu Kumar,18,Male,UG,Bharathiyar University,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Hariprasath,18,Male,UG,KCT,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Deepakraj Chandrasekaran,18,Male,UG,Kumaraguru college of technology,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,2
+26-Jan-23,ANDREW,18,Male,UG,Kongunadu arts and science clg,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,SANJAY S,18,Male,UG,Kumaraguru college of technology,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+26-Jan-23,S.Sakthimaheswari,18,Female,UG,Sree sakthi engineering college,Urban,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,MOHAN KUMAR S,18,Male,UG,GRG INSTITUTION,Semi Urban,Yes,Strongly 3,Yes,No,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Lokeshwaran M,18,Male,UG,Kumaraguru college of technology,Semi Urban,No,1,No,Yes,No,Yes,No,Yes,No,1
+26-Jan-23,Harsitha,18,Female,UG,KCT,Urban,Yes,Strongly 3,Yes,No,Yes,No,No,No,Yes,3
+26-Jan-23,Chandhiraleka M,18,Female,UG,Kumaraguru college of technology,Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Paul Samuel W E,18,Male,UG,Kumaraguru college of technology,Urban,Yes,1,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Sruthi KJ,18,Female,UG,Kumaraguru college of technology,Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Sanjesh V.A,18,Male,UG,Kumaraguru college of technology,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,0
+26-Jan-23,P Ragul,18,Male,UG,Madras Institute of Technology,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Ananth,18,Male,UG,Ramakrishna engineering,Urban,Yes,2,No,No,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Selvendran,18,Male,UG,KGISL Institute of technology,Rural,Yes,2,No,Yes,Yes,Yes,No,No,Yes,1
+26-Jan-23,Pranyga C,18,Female,UG,Kumaraguru college of technology,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,MANIKANDAN R,18,Male,UG,Sengunthar Engineering College,Rural,Yes,0,No,Yes,No,Yes,No,Yes,No,0
+26-Jan-23,S.Rohith,18,Male,UG,INFO INSTITUTE OF ENGINEERING,Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,SACHIN D,18,Male,UG,RATHINAM TECHNICAL CAMPUS,Semi Urban,Yes,0,No,Yes,No,Yes,No,Yes,No,1
+26-Jan-23,Indhu Mathi.G,18,Female,UG,Kongunadu Arts And Science,Urban,Yes,Strongly 3,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Prasanna T,18,Male,UG,"Info Institute of Engineering, coimbatore",Urban,Yes,2,Yes,Yes,Yes,No,No,No,No,2
+26-Jan-23,K.srinithi,18,Female,UG,Kumaraguru college of technology,Rural,Yes,3,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Yugasri,18,Female,UG,Akshaya acadamy,Rural,No,2,No,Yes,Yes,No,No,Yes,Yes,2
+26-Jan-23,SAMRITHA.S,18,Female,UG,Kumaraguru college of technology,Urban,Yes,0,Yes,Yes,Yes,Yes,No,Yes,No,3
+27-Jan-23,Vaitheeshwaran,18,Male,UG,INFO INSTITUTE OF ENGINEERING,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+27-Jan-23,Gukapriya. K,18,Female,UG,KGCAS,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+27-Jan-23,Navan Sri. T,18,Female,UG,KGCAS,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+27-Jan-23,Angel Jasmine B,18,Female,UG,Kongunadu Arts&science college,Rural,Yes,2,No,Yes,No,Yes,No,Yes,No,1
+28-Jan-23,Yazhini S,18,Female,UG,PSGR krishnammal college for womens,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,MAHITHA S,18,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,SANJAI S,18,Male,UG,"BANNARI AMMAN INSTITUTE OF TECHNOLOGY, ERODE",Rural,Yes,0,No,Yes,Yes,Yes,No,Yes,No,3
+28-Jan-23,Yuvaraj. M,18,Male,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Urban,Yes,Strongly 3,Yes,No,Yes,Yes,No,Yes,Yes,3
+28-Jan-23,Srenidhe Karthikeyan,18,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Urban,Yes,2,No,Yes,Yes,Yes,No,No,Yes,2
+28-Jan-23,ABISHAKE KUMAR SL,18,Male,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,3
+28-Jan-23,Akshaya,18,Female,UG,Sri Krishna arts and science college,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Sowndharya,18,Female,UG,Sri Krishna arts and science college,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,SHYAM SUNDHAR S S,18,Male,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Rural,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Sivapriya,18,Female,UG,VIT,Rural,Yes,2,No,Yes,Yes,Yes,No,No,Yes,2
+28-Jan-23,mrudul mamtani,18,Male,UG,"Vellore Institute of Technology, Vellore",Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,0
+28-Jan-23,Shivani k,18,Female,UG,VIT VELLORE,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Prarthana,18,Female,PG,VIT,Semi Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,Yes,0
+28-Jan-23,Gokulakannan.M,18,Male,UG,Kongunadu arts and sciences college,Urban,Yes,2,No,Yes,Yes,No,No,Yes,No,1
+28-Jan-23,Annis Bell G,18,Female,UG,St. Joseph's College of Engineering,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Sidhurathul Munthaha,18,Female,UG,VIT VELLORE,Rural,No,0,No,Yes,No,Yes,No,Yes,No,1
+29-Jan-23,S SURIYA,18,Male,UG,Vellore institute of technology,Urban,Yes,0,No,No,Yes,Yes,No,Yes,Yes,1
+29-Jan-23,PRITHIGA S,18,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+29-Jan-23,JAYASHREE G,18,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+29-Jan-23,Abisanthiya.K,18,Female,UG,"Government college of technology, coimbatore",Urban,No,1,No,No,Yes,Yes,No,Yes,No,2
+29-Jan-23,S. Sivamurugan,18,Male,UG,Bishop heber college,Rural,No,1,No,Yes,No,Yes,No,No,Yes,0
+29-Jan-23,Arulmurugan.R,18,Male,UG,Sri Krishna College of engineering and technology,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+29-Jan-23,Aswinth v,18,Male,UG,Sri Krishna College of engineering and technology,Semi Urban,Yes,Strongly 3,No,Yes,Yes,Yes,No,Yes,Yes,1
+31-Jan-23,K.Varshini,18,Female,UG,PSGR Krishnammal college for women,Urban,Yes,1,No,Yes,No,Yes,No,Yes,Yes,2
+31-Jan-23,Bhavatharani S,18,Female,UG,PSGR Krishnammal college for women,Rural,Yes,3,No,Yes,No,Yes,No,Yes,No,2
+31-Jan-23,DHARSHINI V,18,Female,UG,PSGR KRISHNAMMAL COLLEGE COIMBATORE,Urban,Yes,2,No,No,Yes,Yes,No,Yes,No,1
+26-Jan-23,Nirupama,20,Female,UG,Kongunadu,Rural,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Alagu parvathi.M,20,Female,UG,Avinashilingam insititute,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Aarthi.R,20,Female,UG,"PSGR Krishnammal College for Women, Coimbatore",Urban,Yes,3,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,S Harshini,20,Female,UG,Kongunadu Arts And Science,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,2
+26-Jan-23,Prathoshini.S,20,Female,UG,Kongunadu college of arts and science,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,DHESIKAN.K J,20,Male,UG,Kongunaducollege,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,0
+26-Jan-23,Daraneesh R,20,Male,UG,Kongunadu college of arts and science,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,PAVITHRA P,20,Female,UG,"Kongunadu Arts and Science College, Coimbatore",Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,SANKARKALI S,20,Male,UG,PSG College of arts & Science,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,Pavitha,20,Female,UG,S.N.S college of technology,Urban,Yes,3,No,Yes,Yes,Yes,No,Yes,Yes,2
+27-Jan-23,Thukkairaj K,20,Male,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,2,No,No,Yes,Yes,No,Yes,Yes,1
+27-Jan-23,SATHYA SARATHY N,20,Male,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,2
+27-Jan-23,Jayasri,20,Female,UG,Psg,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+27-Jan-23,Navaneetha B,20,Female,UG,"Dr.N.G.P Arts and Science college, Coimbatore",Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,2
+28-Jan-23,Jeeva,20,Male,UG,Kongunadu arts and sciences,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,S.Iruthiya Silviya,20,Female,UG,Avinashilingam University,Rural,Yes,3,No,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Balaji V,20,Male,UG,Vellore institute of technology,Urban,Yes,2,No,No,Yes,Yes,No,Yes,Yes,1
+28-Jan-23,Tamilzharasan,20,Male,PG,Vellore institute of technology,Rural,Yes,0,No,No,Yes,Yes,No,Yes,Yes,1
+28-Jan-23,JAYENDRAPRABHU.S,20,Male,UG,KG,Urban,Yes,2,No,No,Yes,Yes,No,Yes,No,1
+28-Jan-23,Savithra,20,Female,UG,SRM UNIVERSITY,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+28-Jan-23,Arunraj.k,20,Male,UG,KGISL Institute of technology,Urban,Yes,1,No,Yes,Yes,No,No,Yes,No,2
+28-Jan-23,Sakthi Sundar D,20,Male,UG,K.S.R lnstitutions,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,R. Kiruthika,20,Female,UG,PSGR Krishnammal college for women,Urban,Yes,2,No,Yes,No,Yes,No,Yes,No,1
+28-Jan-23,Hariharan SV,20,Male,UG,"University College of Engineering, Trichy",Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+28-Jan-23,Sivaranjani,20,Female,UG,Karpagam Institute of technology,Urban,Yes,1,No,No,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Mugundhan P,20,Male,UG,Vellore institute of technology,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+28-Jan-23,Nirmal,20,Male,UG,Vellore institute of technology,Urban,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Akshaya,20,Female,UG,Vellore institute of technology,Semi Urban,Yes,Strongly 3,Yes,No,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Sandhiya,20,Female,UG,VIT,Rural,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Harrish Charles,20,Male,UG,Vellore institute of technology,Semi Urban,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,1
+28-Jan-23,Harivarman P,20,Male,UG,Vellore institute of technology,Semi Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Evangeline,20,Female,UG,Vellore institute of technology,Urban,Yes,Strongly 3,Yes,No,Yes,Yes,No,No,Yes,3
+28-Jan-23,Deenadayalan M,20,Male,UG,UNITED INSTITUTE OF TECHNOLOGY,Rural,Yes,2,No,No,Yes,Yes,No,Yes,No,1
+28-Jan-23,Deeksha,20,Female,UG,Vellore institute of technology,Urban,Yes,2,Yes,Yes,Yes,Yes,No,No,Yes,3
+28-Jan-23,MONICA S,20,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+28-Jan-23,Manojkumar,20,Male,UG,"Vellore Institute of Technology, Vellore",Semi Urban,Yes,1,No,No,Yes,Yes,No,Yes,No,2
+28-Jan-23,Kalamegam,20,Male,UG,"VIT, Vellore",Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+28-Jan-23,S BARATH KUMAR,20,Male,UG,VIT VELLORE,Rural,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+28-Jan-23,Harivignesh A P,20,Male,UG,VIT,Rural,Yes,0,No,Yes,Yes,Yes,No,Yes,No,2
+28-Jan-23,Kiruthick K,20,Male,UG,"VIT,Vellore",Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+28-Jan-23,Gowthami A T,20,Female,UG,VIT,Rural,Yes,2,No,No,Yes,Yes,No,Yes,Yes,2
+29-Jan-23,POOMANI S,20,Male,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+29-Jan-23,Maanasika R,20,Female,UG,Vellore institute of technology,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+29-Jan-23,Hari Prasath E,20,Male,UG,Rvs college of arts and science,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,2
+29-Jan-23,Surya,20,Male,UG,VIT,Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,1
+29-Jan-23,Suresh v,20,Male,UG,Kongunadu art's and science college in coimbatore,Rural,Yes,Strongly 3,No,No,Yes,Yes,No,Yes,Yes,1
+29-Jan-23,Saran,20,Male,UG,Nift tea,Urban,No,Strongly 3,No,Yes,Yes,Yes,No,Yes,No,1
+29-Jan-23,K.Kavinmalar,20,Female,UG,PKR arts college for women,Rural,Yes,3,No,No,Yes,Yes,No,Yes,Yes,2
+29-Jan-23,Akash,20,Male,UG,NGP,Rural,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,3
+29-Jan-23,S.Aarthi Sadhana,20,Female,UG,Gandhigram Rural Institute,Rural,Yes,0,No,Yes,Yes,Yes,No,Yes,No,1
+29-Jan-23,KUNAL S,20,Male,UG,"GOVT COLLEGE OF ENGINEERING , BARGUR",Semi Urban,Yes,1,No,Yes,No,Yes,No,Yes,No,1
+29-Jan-23,E.Ranjani,20,Female,UG,Dhanalakshmi srinivasan college of arts and science for women(A),Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,2
+29-Jan-23,Seshathri,20,Male,UG,Gandhigram University,Rural,Yes,1,No,No,No,No,No,No,No,0
+29-Jan-23,Dharun,20,Male,UG,Sri krishan college of engineering and technology,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+30-Jan-23,Akash S,20,Male,UG,G.Venkataswamy Naidu College Kovilpatti,Semi Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+31-Jan-23,MYTHILI,20,Female,UG,Kongunadu arts and sciences college,Rural,Yes,3,No,Yes,Yes,No,No,Yes,No,1
+31-Jan-23,Dharshini vel,20,Female,UG,Vinayaka mission's research foundation,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,Kalaiyarasi.M,20,Female,UG,Vinayaka mission's college of pharmacy,Urban,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+31-Jan-23,K manimaran,20,Male,UG,Vinayaka mission college of pharmacy,Rural,Yes,2,No,Yes,No,Yes,No,Yes,No,1
+31-Jan-23,Arjun Raj,20,Male,UG,Kongunadu arts and science college Coimbatore,Semi Urban,Yes,3,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,Sobiya.I,20,Female,UG,Kongunadu arts and science college Coimbatore,Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,0
+31-Jan-23,Abirami. R,20,Female,UG,Vinayaka mission's college of pharmacy,Rural,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+31-Jan-23,Anushiya,20,Female,UG,KASC,Rural,Yes,1,No,No,Yes,Yes,No,Yes,No,1
+31-Jan-23,Subashini N,20,Female,UG,Kongunadu arts and science college at Coimbatore,Rural,Yes,0,No,Yes,Yes,Yes,No,Yes,No,2
+31-Jan-23,SIVASANKARI M,20,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,1
+31-Jan-23,BHAKIYALAKSHMI G,20,Female,UG,DHANALAKSHMI SRINIVASAN ENGINEERING COLLEGE,Rural,Yes,1,No,Yes,No,Yes,No,Yes,No,1
+31-Jan-23,Hafeela Begum. K,20,Female,UG,Srinivasan college of arts and science Perambalur,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+01-Feb-23,Muthu Kumar,20,Male,UG,Vellore institute of technology,Rural,Yes,3,Yes,Yes,Yes,Yes,No,Yes,No,1
+01-Feb-23,Bhavani I,20,Female,UG,Vellore institute of technology,Rural,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Pooja padma sree,19,Female,UG,Bharathiyar University,Rural,Yes,3,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Gokula kannan. M,19,Male,UG,Gobi arts and science college,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+26-Jan-23,Nandhini Baskar,19,Female,UG,DR. SNS RAJALAKSHMI COLLEGE OF ARTS AND SCIENCE,Urban,Yes,1,No,Yes,No,Yes,No,Yes,No,1
+26-Jan-23,Dhaksana,19,Female,UG,Kumaraguru college of technology,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+26-Jan-23,Arunbala P M,19,Male,UG,Kumuraguru institute of technology,Semi Urban,Yes,0,No,Yes,No,Yes,No,Yes,No,0
+26-Jan-23,Amritha. S,19,Female,UG,Kumaraguru technology of college,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Abinaya  B,19,Female,UG,KCT,Urban,Yes,2,Yes,Yes,Yes,No,No,Yes,Yes,2
+26-Jan-23,Pranavi S J,19,Female,UG,KCT,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,ASWIN RAJ,19,Male,UG,INFO INSTITUTE OF ENGINEERING,Urban,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+26-Jan-23,Shri varsha.P,19,Female,UG,Kumaraguru college of technology,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+26-Jan-23,VISHNU PRIYA c,19,Female,UG,SENGUNTHAR ENGINEERING COLLEGE TIRUCHENGODE,Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,No,Yes,No,3
+27-Jan-23,Nabila Jasmine A,19,Female,UG,"Vellalar College For Women (Autonomous) , Erode-12.",Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+27-Jan-23,Shreenidhi,19,Female,UG,Veterinary College,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+27-Jan-23,Mithun Kumar.N,19,Male,UG,Kongu Nadu arts and science college,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Madhan,19,Male,UG,UNITED INSTITUTE OF TECHNOLOGY,Rural,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Aravinth,19,Male,UG,Vellore institute of technology,Semi Urban,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Santhosh Kumar,19,Male,UG,Vellore institute of technology,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Yazhini,19,Female,UG,Government Law college,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Ramya,19,Female,UG,Avinashilingam institute,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+28-Jan-23,Amrit Mel L,19,Female,UG,PSGRKCW,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,R.Jayadaran,19,Male,UG,Government Arts college Coimbatore,Urban,Yes,Strongly 3,No,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,Nadhiya,19,Female,UG,Vellore institute of technology,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Nandhu,19,Male,UG,Vellore institute of technology,Semi Urban,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,MONISHA M,19,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,1
+28-Jan-23,Nivashini S,19,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,SOUNDHARYA R,19,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,DHIVEJHA C P,19,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Zareen Suhara Nazeer Ali,19,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,0
+28-Jan-23,Periyakkal K,19,Female,UG,Vellore institute of technology,Semi Urban,Yes,Strongly 3,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,HEMANTH J,19,Male,UG,BANNARI AMMAN INSTITUTION OF TECHNOLOGY,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,Yes,2
+28-Jan-23,MIRUDHUBASHINI K,19,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,1,No,Yes,No,Yes,No,Yes,No,2
+28-Jan-23,Sanjeevkumar S P,19,Male,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Semi Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,0
+28-Jan-23,SNEHA S,19,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Rural,Yes,3,No,Yes,Yes,Yes,No,Yes,Yes,1
+28-Jan-23,Maithili,19,Female,UG,Coimbatore Institute of Technology,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,balaguruperumal,19,Male,UG,CIT,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Manisabari S,19,Male,UG,Coimbatore Institute of Technology,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Abishek L,19,Male,UG,Coimbatore Institute of Technology,Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,0
+28-Jan-23,Harini A,19,Female,UG,Coimbatore Institute of Technology,Semi Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Priya.N,19,Female,UG,VIT University,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Jegatheeswari.K,19,Female,UG,Vellore Institute of Technology [Vellore],Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+28-Jan-23,Sandhiya,19,Female,UG,Vit vellore University,Rural,Yes,1,No,Yes,Yes,Yes,No,Yes,No,0
+28-Jan-23,Pavithra B,19,Female,UG,VIT,Rural,Yes,2,Yes,No,Yes,Yes,No,Yes,No,2
+28-Jan-23,Jelin,19,Female,UG,VIT,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+29-Jan-23,Kanish,19,Male,UG,VIT VELLORE,Urban,Yes,1,No,No,Yes,Yes,No,Yes,No,1
+29-Jan-23,Miraa,19,Female,UG,Skasc,Semi Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,1
+29-Jan-23,Nanthakumar S,19,Male,UG,"Kongunadu Arts and Science College, Coimbatore",Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,1
+29-Jan-23,Rathish kumar R,19,Male,UG,Kongunadu arts and sciences college,Rural,Yes,1,No,Yes,No,Yes,No,Yes,Yes,1
+29-Jan-23,S.Nikhileswaran,19,Male,UG,Kongunadu arts and science college Coimbatore,Urban,Yes,2,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+29-Jan-23,Malinidevi.C,19,Female,UG,Vivekananda Art's and science college for women,Semi Urban,Yes,3,No,No,No,Yes,No,Yes,No,1
+29-Jan-23,Dhanush M,19,Male,UG,Chikkaiah Naicker College,Semi Urban,Yes,1,No,No,No,Yes,No,Yes,Yes,3
+29-Jan-23,SUGUNA V,19,Female,UG,Gandhigram Rural Institute,Semi Urban,No,2,No,Yes,Yes,Yes,No,Yes,No,1
+29-Jan-23,BHAVANI S,19,Female,UG,Gandhigram Rural Institute,Rural,Yes,2,No,Yes,No,Yes,No,Yes,Yes,2
+29-Jan-23,Mahalakshmi,19,Female,UG,Gandhigram Rural Institute,Rural,Yes,1,Yes,Yes,No,Yes,No,Yes,Yes,2
+29-Jan-23,M.Gowshika,19,Female,UG,Gandhigram Rural Institute,Rural,Yes,3,No,Yes,No,Yes,No,Yes,Yes,2
+29-Jan-23,M.Ananthi,19,Female,UG,Gandhigram University,Rural,Yes,3,No,Yes,No,Yes,No,Yes,Yes,2
+29-Jan-23,Mahalakshmi. G,19,Female,UG,Gandhigram rural institute deemed to be university,Rural,Yes,3,Yes,No,No,Yes,No,Yes,Yes,2
+29-Jan-23,Hariganesh,19,Male,UG,"Government college of engineering, bargur",Urban,Yes,3,No,Yes,Yes,Yes,No,Yes,Yes,3
+29-Jan-23,SRIDHARAN T,19,Male,UG,"Government College of engineering,bargur",Urban,Yes,3,Yes,No,Yes,Yes,No,Yes,No,1
+29-Jan-23,Shobanapriya. M,19,Female,UG,Gandhigram Rural Institue - DU,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+29-Jan-23,Madhavan,19,Male,UG,Tiruvannamali medical colledge,Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,No,1
+29-Jan-23,S.jayasurya,19,Male,UG,Sri Krishna College of engineering and technology,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,No,2
+29-Jan-23,Sivalokeshwari S,19,Female,UG,Wcc,Semi Urban,Yes,3,No,No,Yes,Yes,No,Yes,Yes,2
+30-Jan-23,NIVETHITHA M,19,Female,UG,BANNARI AMMAN INSTITUTE OF TECHNOLOGY,Urban,Yes,Strongly 3,No,Yes,Yes,Yes,No,Yes,No,2
+30-Jan-23,Sakthivel,19,Male,UG,Paavai Engineering college,Semi Urban,Yes,1,No,Yes,No,Yes,No,Yes,No,1
+31-Jan-23,Trisha c,19,Female,UG,B com ca,Urban,Yes,Strongly 3,No,Yes,Yes,Yes,No,No,Yes,2
+31-Jan-23,Rishi Narasiman,19,Male,UG,KASC,Urban,No,1,No,No,No,No,No,No,No,1
+31-Jan-23,JEEVA M,19,Female,UG,DHANALAKSHMI SRINIVASAN ENGINEERING COLLEGE PERAMBALUR,Urban,Yes,1,No,Yes,Yes,Yes,No,No,Yes,2
+31-Jan-23,K. Abi,19,Female,UG,Vinayaka mission research Foundation,Rural,Yes,2,No,No,Yes,No,No,Yes,Yes,2
+31-Jan-23,Vinodhini Suresh,19,Female,UG,SRM UNIVERSITY,Urban,Yes,0,No,Yes,Yes,Yes,No,Yes,Yes,0
+31-Jan-23,SOMESH S.V,19,Male,PG,Kongunadu Art's and science college,Urban,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,1
+31-Jan-23,K .Dhurga,19,Female,UG,School of allied health science VMRF-DU SALEM,Semi Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,2
+31-Jan-23,Priyadharshini,19,Female,UG,Kg college of arts and science,Urban,Yes,1,No,Yes,Yes,Yes,No,Yes,No,1
+01-Feb-23,Jelin,19,Female,UG,Vellore institute of technology,Semi Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,1
+01-Feb-23,Bharath Kumar,19,Male,UG,Vellore institute of technology,Semi Urban,Yes,3,Yes,Yes,Yes,Yes,No,Yes,Yes,2
+01-Feb-23,Dinesh,19,Male,PG,VIT,Rural,Yes,2,No,Yes,Yes,Yes,No,Yes,Yes,2
